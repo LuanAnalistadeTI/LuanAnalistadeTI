@@ -23,6 +23,8 @@ Sou um profissional de Tecnologia da Informação apaixonado por resolver proble
 <a href="#" rel="noreferrer"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mysql-icon-2048x2048-ah6uglxs.png" width="36" height="36" alt="MySQL" /></a>
 <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="#" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/supabase-icon1721342077.logowik.com.webp" width="36" height="36" alt="Supabase" /></a>
+<a href="#" rel="noreferrer"><img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="36" height="36" alt="Firebase" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Photoshop" /></a>
