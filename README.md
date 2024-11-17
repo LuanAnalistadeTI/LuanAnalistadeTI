@@ -2,7 +2,8 @@
 # Eu sou [Luan,](https://luananalistadeti.netlify.app/) Analista de TI /Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="50" height="50" />
 Analista de Segurança da Informação, Ethical Hacker, Cyber Security, Engenheiro de Software,
 UX/UI Designer, desenvolvedor de software e entusiasta do macOS, apaixonado por engenharia reversa do macOS.
-Sou um profissional de Tecnologia da Informação apaixonado por resolver problemas complexos...
+Sou um profissional de Tecnologia da Informação apaixonado por resolver problemas complexos e 
+construir soluções de software inovadoras que resolvam problemas do mundo real.
 
 ### My Skills
 
