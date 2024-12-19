@@ -20,6 +20,7 @@ construir soluções de software inovadoras que resolvam problemas do mundo real
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="36" height="36" alt="CSS3" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/59355893?s=200&v=4" width="36" height="36" alt="GO" /></a>
 <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="#" rel="noreferrer"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mysql-icon-2048x2048-ah6uglxs.png" width="36" height="36" alt="MySQL" /></a>
