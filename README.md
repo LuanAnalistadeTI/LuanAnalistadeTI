@@ -11,7 +11,7 @@ construir soluções de software inovadoras que resolvam problemas do mundo real
 <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIKkbFzb2FTlF2WQ48j5wy23fAE7L7ImTd36i0Lvk5aFEaplmmVFha9Mpoj4lYccM8_0&usqp=CAU" width="36" height="36" alt="macOS" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://preview.redd.it/sudz5o3s1vn91.png?width=1080&format=png&auto=webp&s=27107d9d26f3b82ee00f53becd873b7bef881744" width="36" height="36" alt="Windows 11" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/512px-Tux.svg.png" width="36" height="36" alt="Linux" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="36" height="36" alt="Kali Linux" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU" width="36" height="36" alt="Kali Linux" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" width="36" height="36" alt="Bash" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
