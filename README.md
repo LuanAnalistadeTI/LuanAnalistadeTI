@@ -5,6 +5,10 @@ UX/UI Designer, desenvolvedor de software e entusiasta do macOS, apaixonado por 
 Sou um profissional de Tecnologia da Informação apaixonado por resolver problemas complexos e 
 construir soluções de software inovadoras que resolvam problemas do mundo real.
 
+### Projeto: [EntusiastadomacOS](https://github.com/EntusiastadomacOS) Use o sistema da Apple em qualquer computador! E seja feliz! : )
+### Project: [EntusiastadomacOS](https://github.com/EntusiastadomacOS) Use the Apple system on any computer! And be happy! :)
+
+
 ### My Skills
 
 <p align="left">
