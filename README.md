@@ -24,7 +24,7 @@ Information Security Analyst, Ethical Hacker, Cyber ​​Security, Software Eng
 <a href="#" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/59355893?s=200&v=4" width="36" height="36" alt="GO" /></a>
 <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="#" rel="noreferrer"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mysql-icon-2048x2048-ah6uglxs.png" width="36" height="36" alt="MySQL" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/60/8d/31608d78-23a1-30e7-fa1e-37ce7956212a/AppIcon-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="36" height="36" alt="MySQL" /></a>
 <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="#" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/supabase-icon1721342077.logowik.com.webp" width="36" height="36" alt="Supabase" /></a>
 <a href="#" rel="noreferrer"><img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="36" height="36" alt="Firebase" /></a>
