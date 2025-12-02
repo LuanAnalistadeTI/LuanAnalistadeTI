@@ -2,7 +2,6 @@
 # I am [Luan,](https://luananalistadeti.netlify.app/) IT Analyst /Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="50" height="50" />
 Information Security Analyst, Ethical Hacker, Cyber ​​Security, Software Engineer, UX/UI Designer, software developer and macOS enthusiast, passionate about reverse engineering macOS. I am an Information Technology professional passionate about solving complex problems and building innovative software solutions that solve real-world problems.
 
-### Projeto: [EntusiastadomacOS](https://github.com/EntusiastadomacOS) Use o sistema da Apple em qualquer computador! E seja feliz! : )
 ### Project: [EntusiastadomacOS](https://github.com/EntusiastadomacOS) Use the Apple system on any computer! And be happy! :)
 
 
